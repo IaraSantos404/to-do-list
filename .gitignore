@@ -1,5 +1,5 @@
 backend/.env
 backend/node_modules/
-# backend/tarefas.db
-# backend/tarefas.db-shm
-# backend/tarefas.db-wal
+backend/tarefas.db
+backend/tarefas.db-shm
+backend/tarefas.db-wal
