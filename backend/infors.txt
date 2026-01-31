@@ -1,0 +1,4 @@
+api finalizada
+pontos de melhoria:
+- adicionar mensagem de erro nas validations de id
+- adicionar mensagem de erro na parte de update quando a tarefa não for encontrada e pq
